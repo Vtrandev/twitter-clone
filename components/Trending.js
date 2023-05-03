@@ -20,27 +20,27 @@ function Trending() {
         <h1 className="font-bold text-xl p-3">What's happening</h1>
         <div className="p-3 relative">
           <EllipsisHorizontalIcon className="w-5 text-gray-600 absolute right-4" />
-          <p className="text-xs text-gray-500">Trending in US</p>
-          <h1 className="text-[15px] font-bold">China</h1>
-          <p className="text-xs text-gray-500">340k tweets</p>
+          <p className="text-xs text-gray-500">Trending in Canada</p>
+          <h1 className="text-[15px] font-bold">Odog</h1>
+          <p className="text-xs text-gray-500 mt-1">340k tweets</p>
         </div>
         <div className="p-3 relative">
           <EllipsisHorizontalIcon className="w-5 text-gray-600 absolute right-4" />
           <p className="text-xs text-gray-500">Trending in US</p>
-          <h1 className="text-[15px] font-bold">China</h1>
-          <p className="text-xs text-gray-500">340k tweets</p>
+          <h1 className="text-[15px] font-bold">Lakers</h1>
+          <p className="text-xs text-gray-500 mt-1">373k tweets</p>
         </div>
         <div className="p-3 relative">
           <EllipsisHorizontalIcon className="w-5 text-gray-600 absolute right-4" />
-          <p className="text-xs text-gray-500">Trending in US</p>
-          <h1 className="text-[15px] font-bold">China</h1>
-          <p className="text-xs text-gray-500">340k tweets</p>
+          <p className="text-xs text-gray-500">Sports • Trending</p>
+          <h1 className="text-[15px] font-bold">Chelsea</h1>
+          <p className="text-xs text-gray-500 mt-1">216k tweets</p>
         </div>
         <div className="p-3 relative">
           <EllipsisHorizontalIcon className="w-5 text-gray-600 absolute right-4" />
-          <p className="text-xs text-gray-500">Trending in US</p>
-          <h1 className="text-[15px] font-bold">China</h1>
-          <p className="text-xs text-gray-500">340k tweets</p>
+          <p className="text-xs text-gray-500">Music • Trending</p>
+          <h1 className="text-[15px] font-bold">Hybe</h1>
+          <p className="text-xs text-gray-500 mt-1">389k tweets</p>
         </div>
       </div>
 
@@ -51,15 +51,15 @@ function Trending() {
           <div className="flex space-x-3">
             <img
               className="w-11 h-11 object-cover rounded-full"
-              src="/assets/bragg.png"
+              src="/assets/twitter.png"
             />
 
             <div>
               <div className="flex space-x-1">
-                <h1 className="font-bold">David Bragg</h1>
-                <CheckCircleIcon className="w-[18px] text-blue-400" />
+                <h1 className="font-bold">Twitter</h1>
+                <CheckCircleIcon className="w-[18px] text-yellow-400" />
               </div>
-              <h1 className="text-[12px] mt-1 text-gray-500">@davidbragg</h1>
+              <h1 className="text-[12px] mt-1 text-gray-500">@Twitter</h1>
             </div>
           </div>
 
@@ -70,15 +70,15 @@ function Trending() {
           <div className="flex space-x-3">
             <img
               className="w-11 h-11 object-cover rounded-full"
-              src="/assets/bragg.png"
+              src="/assets/mrbeast.png"
             />
 
             <div>
               <div className="flex space-x-1">
-                <h1 className="font-bold">David Bragg</h1>
+                <h1 className="font-bold">MrBeast</h1>
                 <CheckCircleIcon className="w-[18px] text-blue-400" />
               </div>
-              <h1 className="text-[12px] mt-1 text-gray-500">@davidbragg</h1>
+              <h1 className="text-[12px] mt-1 text-gray-500">@MrBeast</h1>
             </div>
           </div>
 
